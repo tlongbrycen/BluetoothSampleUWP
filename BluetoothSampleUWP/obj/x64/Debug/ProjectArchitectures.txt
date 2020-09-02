@@ -1,0 +1,1 @@
+C:\Users\tlong\source\repos\BluetoothSampleUWP\BluetoothSampleUWP\BluetoothSampleUWP.csproj;x64
