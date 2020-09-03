@@ -11,6 +11,12 @@
     <Grid>
         <Button x:ConnectionId='2' x:Name="btnInitServer" Content="InitServer"                             Margin="53,67,0,0" VerticalAlignment="Top" Height="68" Width="140"/>
         <Button x:ConnectionId='3' x:Name="btnInitClient" Content="InitClient"                             Margin="53,188,0,0" VerticalAlignment="Top" Height="68" Width="140"/>
+        <TextBlock x:ConnectionId='4' x:Name="txtBlk1" HorizontalAlignment="Left" Margin="279,67,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="496" Width="592">
+            <TextBlock.FocusVisualPrimaryBrush>
+                <SolidColorBrush Color="{ThemeResource SystemChromeBlackLowColor}"/>
+            </TextBlock.FocusVisualPrimaryBrush>
+        </TextBlock>
+        <Button x:ConnectionId='5' x:Name="btnWatching" Content="WatchingBTE"                            Margin="53,320,0,0" VerticalAlignment="Top" Height="68" Width="140"/>
 
     </Grid>
 </Page>

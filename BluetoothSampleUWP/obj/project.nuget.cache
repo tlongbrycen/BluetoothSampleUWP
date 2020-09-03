@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+j+DchxhK78OtwKPTJLmGtg5WeZB/IpSoDMcYFbOh0ViRdl8YXakKxmVHZz1NslwjQNM1xDKNGhzypoJFBrqSA==",
+  "dgSpecHash": "2rbxV0KJ1jcmL5zPL8okFy+LMMqje1KK0T2QtecsC2STAePGxJVfp/3XVZeZh4Jq1w3cF7xYxgExg5SdC3JoCQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tlong\\source\\repos\\BluetoothSampleUWP\\BluetoothSampleUWP\\BluetoothSampleUWP.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
     "C:\\Users\\tlong\\.nuget\\packages\\microsoft.netcore.universalwindowsplatform\\6.2.10\\microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
+    "C:\\Users\\tlong\\.nuget\\packages\\microsoft.ui.xaml\\2.4.3\\microsoft.ui.xaml.2.4.3.nupkg.sha512",
     "C:\\Users\\tlong\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform\\6.2.10\\runtime.win10-arm-aot.microsoft.netcore.universalwindowsplatform.6.2.10.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.8-rel-28605-00\\runtime.win10-arm.microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",

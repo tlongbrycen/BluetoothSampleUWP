@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Windows.Devices.Bluetooth;
 using Windows.Devices.Bluetooth.Rfcomm;
+using Windows.Devices.Enumeration;
 using Windows.Networking.Sockets;
 using Windows.Storage.Streams;
 
@@ -165,5 +166,6 @@ namespace BluetoothSampleUWP
             // the Sockets API and not the Rfcomm API, and so is omitted here for
             // brevity.
         }
+    
     }
 }

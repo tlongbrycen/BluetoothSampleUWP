@@ -43,3 +43,4 @@ C:\Users\tlong\source\repos\BluetoothSampleUWP\BluetoothSampleUWP\obj\x64\Debug\
 C:\Users\tlong\source\repos\BluetoothSampleUWP\BluetoothSampleUWP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\tlong\source\repos\BluetoothSampleUWP\BluetoothSampleUWP\obj\x64\Debug\ProjectArchitectures.txt
 C:\Users\tlong\source\repos\BluetoothSampleUWP\BluetoothSampleUWP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112282540000000.json
+C:\Users\tlong\source\repos\BluetoothSampleUWP\BluetoothSampleUWP\obj\x64\Debug\Microsoft.UI.Xaml.pri.xml
